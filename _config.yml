@@ -3,6 +3,8 @@ baseurl: '/example-teletek'
 title: Teletek Mac Repair
 aaspurl: "https://locate.apple.com/service/?pt=4&lat=29.6788293&lon=-82.46444450000001"
 markdown: kramdown
+css:
+  active: "active"
 exclude:
   - run.sh
   - README.md
