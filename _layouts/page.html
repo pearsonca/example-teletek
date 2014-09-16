@@ -11,5 +11,8 @@
   <div class="content">
 {{ content }}
   </div>
+  <div class="foot">
+{% capture foot %}{% include foot.md %}{% endcapture %}{{ foot | markdownify }}
+  </div>
 </body>
 </html>
