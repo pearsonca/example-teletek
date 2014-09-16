@@ -1,7 +1,24 @@
 absoluteurl: http://pearsonca.github.io
 baseurl: '/example-teletek'
 title: Teletek Mac Repair
+aaspurl: "https://locate.apple.com/service/?pt=4&lat=29.6788293&lon=-82.46444450000001"
 markdown: kramdown
 exclude:
   - run.sh
   - README.md
+collections:
+  sections:
+    output: true
+    permalink: /:path/
+    order:
+      - about
+      - services
+      - pricing
+      - location
+defaults:
+  -
+    scope:
+      path: ""
+      type: "sections"
+    values:
+      layout: "page"
