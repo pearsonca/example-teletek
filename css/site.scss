@@ -1,0 +1,53 @@
+---
+---
+
+$dark: #000000;
+$light: #FFFFFF;
+$paledark: #313157;
+$palelight: #A1A1A1;
+
+$tonedark: #FFFFFF;
+$tonemid: #0A0A0A;
+$tonelight: #EEEEEE;
+
+.content, .navigation {
+  margin-left:auto;
+  margin-right:auto;
+  width: 50%;
+  max-width: 50em;
+}
+
+.navigation {
+  background: $dark;
+  padding-left: 1em;
+  padding-right: 1em;
+
+  ul {
+    list-style:none;
+    padding:0;
+    float:right;
+    &:first-child {
+      float:left;
+    }
+  }
+
+  li {
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  a {
+    text-decoration: none;
+    color: $palelight;
+    &:hover {
+      color: $tonelight;
+    }
+  }
+
+  hr {
+    clear:both;
+    visibility: hidden;
+  }
+
+}
