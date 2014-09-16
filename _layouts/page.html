@@ -1,9 +1,15 @@
 <!doctype html>
 <html>
 <head>
-<title>{{ site.title }}</title>
+<title>{{ site.title }} : {{ page.name }}</title>
+<link rel="stylesheet" type="text/css" href="{{ site.absoluteurl }}{{ site.baseurl }}/css/site.css">
 </head>
 <body>
+  <div class="navigation">
+{% capture nav %}{% include nav.md %}{% endcapture %}{{ nav | markdownify }}
+  </div>
+  <div class="content">
 {{ content }}
+  </div>
 </body>
 </html>
