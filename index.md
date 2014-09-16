@@ -1,20 +1,25 @@
 ---
 layout: page
 name: Home
+bgimg: "shapeimg_2.png"
 ---
 
-# Teletek: Your Expert Source For Mac Repair
+Whatever Apple hardware work you need, Teletek should be your first choice!  We provide
+expert, authorized service for iMacs, iPhones, iPods, and iPads.
 
-## MacExpertRepair.com
+Teletek has been an Apple Authorized Service Provider since 1992, and has performed
+repairs, upgrades, and general maintenance on over 1000 devices.  So whatever
+ails your Mac, we have seen it before and know what to do to bring it back!
 
-What ever Mac repair you need done, we should be your first choice!  We Service
-all Apple products and provide reliable expert service.
+For all repairs, Teletek offers same-day diagnostics.  Our typical turnaround time is
+less than two business days.
 
-We are a Apple Authorized service provider with only certified apple technicians.
+All work is done on site, and your hardware will never be shipped out for repair!
 
-Whatever ails your Mac we can bring it back! All service is done on site, no Mac will
-ever be shipped out for repair!  Same day diagnostics, average repair turnaround
-time is 24 to 48 hours. Locally-owned, All work performed by owner.
+Teletek is a locally-owned small business, and all work is personally performed
+by the owner.
 
-Walk-in service Monday through Friday, by appointment on Saturdays.
-We offer both group and one on one training.
+Teletek provides walk-in service Mon-Fri 10-2 and 4-6, and offers Saturday appointments.
+Feel free to call us for an initial consult any time during business hours!
+
+Teletek also offers group and individual training for all Apple hardware.
