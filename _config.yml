@@ -1,0 +1,7 @@
+absoluteurl: http://pearsonca.github.io
+baseurl: '/example-teletek'
+title: Teletek Mac Repair
+markdown: kramdown
+exclude:
+  - run.sh
+  - README.md

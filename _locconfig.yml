@@ -1,0 +1,6 @@
+absoluteurl: 'http://0.0.0.0:4000'
+baseurl: ''
+markdown: kramdown
+exclude:
+  - run.sh
+  - README.md
