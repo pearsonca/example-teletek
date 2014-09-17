@@ -57,6 +57,7 @@ body {
   background-position: right;
 
   ul {
+    text-transform: uppercase;
     float:right;
     &:first-child {
       float:left;
