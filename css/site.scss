@@ -24,6 +24,9 @@ body {
   background: $tonemid;
   color: $light;
   padding: 1em;
+  a {
+    color: inherit;
+  }
 }
 
 .navigation, .foot {
