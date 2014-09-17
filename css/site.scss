@@ -49,7 +49,7 @@ body {
 
 .navigation {
 
-  background-image: url(/assets/logo.png);
+  background-image: url({{ site.absoluteurl }}{{ site.baseurl }}/assets/logo.png);
   background-repeat: no-repeat;
   background-position: right;
 
