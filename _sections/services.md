@@ -2,18 +2,17 @@
 name: Services
 order: 2
 ---
-We offer a wide variety of repair services for all Apple products both in
-warranty and out of warranty.
+Teletek services all Apple products, covered by warranty or otherwise.
 
-Services range from diagnostics and repair to
-Data backup and system restore.
+If you are suffering from hardware issues, we will diagnosis specific problems and repair them.  If those
+problems have caused data loss, we also do recovery and restoration.
 
-Teletek also offers upgrade service for memory
-and hard drives as well as many others.
+If your system is error-free, but just showing its age, Teletek can also install upgrades for processors, memory,
+storage, and other system components.
 
 What ever issue you encounter on your
 mac, we have you covered with expert knowledge and support.
 
 Teletek has
-customer service second to none and competitive pricing.  We are Gainesville’s
-most experienced Authorized Service Provider.
+customer service second to none and competitive pricing.  We are Gainesville\'s
+most experienced Apple Authorized Service Provider.

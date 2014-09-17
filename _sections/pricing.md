@@ -2,10 +2,12 @@
 name: Pricing
 order: 3
 ---
- - We honor all Apple and AppleCare service contracts.
- - Warranty work covered by Apple is at no charge to the customer.
- - $40 Diagnostics for out of warranty machines, if work is done then amount is
- applied to hourly rate
- - $75 an hour labor rate.
- - Competitive pricing on all Apple parts.
- - Training: group rate $50 per person one on one call for pricing
+No charge to you for work under warranty or AppleCare service contracts!
+
+Otherwise, for repair work:
+
+ - $40 for diagnostics, waived if you have Teletek do the repairs!
+ - $75 hourly rate for fixes
+ - Competitive pricing on all Apple parts.  TODO: what does this mean?  Hardware purchased direct from apple + some percentage?  Third party vendors for equiv but lower price?
+
+Teletek also conducts training: $50 per person for groups, call to discuss rates for individual training.
